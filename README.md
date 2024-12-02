@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Tetik</h1>
 <h3 align="center">I am studying computer engineering at Süleyman Demirel University.</h3>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **React** and **Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
